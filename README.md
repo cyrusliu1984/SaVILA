@@ -1,4 +1,4 @@
-# SaVILA-Safe-Robot-Vision-Language-Action-System-for-Navigation
+# SaVILA：Safe-Robot-Vision-Language-Action-System-for-Navigation
 A hierarchical framework enabling robots to navigate unknown environments via natural language, addressing collision collision issues of existing VLA systems.
 
 ## Overview
